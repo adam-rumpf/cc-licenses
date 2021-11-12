@@ -1,3 +1,11 @@
+# Edits
+
+This fork includes the following edits:
+
+* Added a CC BY-NC 4.0 license.
+
+The original text of the README is included below.
+
 # Creative Commons Licenses for GitHub Projects
 
 [![German](https://img.shields.io/badge/translation-DE-red)](de/)
